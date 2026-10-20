@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "librarypaste",
+  "versions": [
+    {
+      "commit": "c08f6b9bb5d40940d5d51c9f8723c8a3ffc95d02",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:19:28.102175+00:00"
+    }
+  ]
+}
